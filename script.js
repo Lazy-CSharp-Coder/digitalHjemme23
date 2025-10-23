@@ -1,6 +1,7 @@
 // Metode 1 : Exporterer funksjon med variabel og hendelse lytter i en fil
 
 import { hamburgerToggle } from "./js/hamburgerToggle.js";
+import { themeToggle } from "./js/themeToggle.js";
 
 console.log(hamburgerToggle);
 
