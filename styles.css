@@ -1,6 +1,5 @@
 
 @import url("./css/global.css");
-
 /* MEDIA for tablets and under*/
 @media (max-width: 769px) {
   .hero,
