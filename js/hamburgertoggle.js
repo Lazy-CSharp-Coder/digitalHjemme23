@@ -1,4 +1,4 @@
-const hamburgerIcon = document.querySelector("#hamburgerIcon");
+import { hamburgerIcon } from "./hamburgericon.js";
 
 function hamburgerToggle() 
 {
