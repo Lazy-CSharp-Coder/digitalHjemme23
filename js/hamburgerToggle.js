@@ -1,4 +1,4 @@
-import { hamburgerIcon } from "./hamburgericon.js";
+import { hamburgerIcon } from "./hamburgerIcon.js";
 
 function hamburgerToggle() 
 {
